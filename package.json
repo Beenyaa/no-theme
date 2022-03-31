@@ -6,6 +6,7 @@
     "engines": {
         "vscode": "^1.66.0"
     },
+    "icon": "https://raw.githubusercontent.com/Beenyaa/no-theme/main/images/icon/no-theme.png",
     "categories": [
         "Themes"
     ],
