@@ -2,6 +2,8 @@
     "name": "no-theme",
     "displayName": "No Theme",
     "description": "A Nothing inspired theme.",
+    "repository": "https://github.com/Beenyaa/no-theme",
+    "author": "Bence Gadányi",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
