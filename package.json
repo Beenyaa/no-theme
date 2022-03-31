@@ -1,7 +1,7 @@
 {
     "name": "no-theme",
     "displayName": "No Theme",
-    "description": "Nothing inspired theme.",
+    "description": "A Nothing inspired theme.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
@@ -9,12 +9,21 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "Dark Theme",
+        "Minimalistic Theme",
+        "Minimal",
+        "Theme",
+        "Red",
+        "Dark",
+        "Nothing"
+    ],
     "contributes": {
         "themes": [
             {
-                "label": "No Theme",
+                "label": "No Theme: dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/No Theme-color-theme.json"
+                "path": "./themes/no-theme-dark-color-theme.json"
             }
         ]
     }
