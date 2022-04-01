@@ -4,11 +4,12 @@
     "description": "A Nothing inspired theme.",
     "repository": "https://github.com/Beenyaa/no-theme",
     "author": "Bence Gadányi",
-    "version": "0.0.1",
+    "version": "1.0.1",
+    "publisher": "BenceGadanyi",
     "engines": {
         "vscode": "^1.66.0"
     },
-    "icon": "https://raw.githubusercontent.com/Beenyaa/no-theme/main/images/icon/no-theme.png",
+    "icon": "images/icon/no-theme.png",
     "categories": [
         "Themes"
     ],
